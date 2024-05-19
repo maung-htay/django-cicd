@@ -1,0 +1,26 @@
+# .dockerignore
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+.DS_Store
+*.so
+*.swp
+*~
+*.bak
+*.swp
+*.py[co]
+*.egg
+*.egg-info
+dist
+build
+docs
+.coverage
+htmlcov
+.env
+.db
+.vscode
+*.sqlite3
+db.sqlite3
+.venv
